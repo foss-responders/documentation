@@ -1,5 +1,7 @@
 # documentation
-Docs that describe how we do the things we do
+Docs that describe how we do the things we do.
+
+Most of these are empty placeholders at this time.
 
 ## Files
 
